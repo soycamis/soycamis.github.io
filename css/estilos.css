@@ -1,0 +1,14 @@
+body {
+  font-family: 'Quantico', sans-serif;
+  font-size: 4em;
+}
+
+div {
+  width: 80%;
+  margin: 5% auto;
+  height: 400px;
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: center;   /* horizontal center */
+
+}
