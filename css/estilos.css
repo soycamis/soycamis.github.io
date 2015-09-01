@@ -12,3 +12,8 @@ div {
   justify-content: center;   /* horizontal center */
 
 }
+
+.adsbygoogle {
+  width: 400px;
+  height: auto;
+}
