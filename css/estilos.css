@@ -5,16 +5,11 @@ body {
 
 div {
   border: 1px solid;
-  width: 80%;
+  width: 100%;
   margin: 5% auto;
   height: 400px;
   display: flex;
   align-items: center; /* vertical center */
   justify-content: center;   /* horizontal center */
 
-}
-
-.adsbygoogle {
-  width: 400px;
-  height: auto;
 }
